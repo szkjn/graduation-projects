@@ -49,3 +49,10 @@ The current repository is a v1 proof-of-concept that has been thought of, develo
 + v3 :
   + optimize Zen Mode to better 'erase' text using adjacent pixel colours
   + mobile app version with a 'Take a picture' option
+
+### Additional Screenshots :
+
+![app2b](https://user-images.githubusercontent.com/84317349/137797595-fee4a57e-13d9-43ec-a519-bff863af72b0.jpg)
+
+Upon click, the full-size image is popping in a modal as displayed below.
+![app2](https://user-images.githubusercontent.com/84317349/137797581-cdc32c62-4d7a-4dae-b3e1-a0100069a11c.jpg)
