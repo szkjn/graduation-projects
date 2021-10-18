@@ -19,11 +19,35 @@ An optional keyword search has also been implemented. If the keyword has been fo
 
 Finally, the extracted text is returned in a textarea below the 4 images. This allows further searching or copy/cut actions.
 
-### Python librairies : 
   + *openCV*
   + *easyOCR*
   + *pytesseract*
   + *Flask*
+
+## Librairies
+
+To create the app, follow those steps:
+
+1. Create a virtual environment :
+
+        python -m venv virtual
+        
+2. Activate the virtual environment :
+
+    on Linux:
+
+        source virtual/Scripts/activate
+        
+    on Windows:
+        
+        .\virtual\Scripts\activate
+        
+3. Install the necessary librairies :
+
+        pip install easyocr pytesseract
+        pip install flask
+
+PS: *pip install easyocr* installs a whole package of librairies including the necessary *opencv* and *pytorch*. Please note that the latest roughly weighs 1.2 Go. All the librairies can be found in **requirements.txt**.
 
 ### Methodology :
 The application was built in 10 days as part of the end-of-course project and followed those 5 steps :
