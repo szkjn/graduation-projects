@@ -19,11 +19,6 @@ An optional keyword search has also been implemented. If the keyword has been fo
 
 Finally, the extracted text is returned in a textarea below the 4 images. This allows further searching or copy/cut actions.
 
-  + *openCV*
-  + *easyOCR*
-  + *pytesseract*
-  + *Flask*
-
 ## Librairies
 
 To create the app, follow those steps:
