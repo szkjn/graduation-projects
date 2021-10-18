@@ -1,12 +1,12 @@
 Epitech Coding Academy / Data & Machine Learning 2021 End Of Course Project
 
-## Text Extraction App
+# Text Extraction App
 
 current version: v1.2.1
 
 ![app](https://user-images.githubusercontent.com/84317349/137354928-7af0a955-b56b-41c1-9458-38dafb8a4eff.jpg)
 
-### Concept :
+## Concept :
 This application detects text from an uploaded image using OCR (Optical Character Recognition) algorithms.
 
 It displays 4 outputs :
@@ -49,7 +49,7 @@ To create the app, follow those steps:
 
 PS: *pip install easyocr* installs a whole package of librairies including the necessary *opencv* and *pytorch*. Please note that the latest roughly weighs 1.2 Go. All the librairies can be found in **requirements.txt**.
 
-### Methodology :
+## Methodology :
 The application was built in 10 days as part of the end-of-course project and followed those 5 steps :
 1. **Knowledge gathering** : I first investigate on what CV technologies are used for extracting text out of images. 
 
@@ -61,7 +61,7 @@ The application was built in 10 days as part of the end-of-course project and fo
 
 5. **Deployment-ready** : The last part consisted of creating a Flask Application with a requirements.txt file for a potential deployment on a Heroku server.
 
-### Improvements :
+## Improvements :
 The current repository is a v1 proof-of-concept that has been thought of, developed and presented as a final project after within a 10 days time period. Below are the improvements that I'd like to implement in the future to bring this app to the level of a first decent personal project :)
 
 + v2 :
@@ -74,7 +74,7 @@ The current repository is a v1 proof-of-concept that has been thought of, develo
   + optimize Zen Mode to better 'erase' text using adjacent pixel colours
   + mobile app version with a 'Take a picture' option
 
-### Additional Screenshots :
+## Additional Screenshots :
 
 ![app2b](https://user-images.githubusercontent.com/84317349/137797595-fee4a57e-13d9-43ec-a519-bff863af72b0.jpg)
 
