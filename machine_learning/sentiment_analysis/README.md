@@ -1,5 +1,7 @@
 # Sentiment Analysis on @peta's Twitter interactions
 
+#SentimentAnalysis #DataCleaning #ModelTraining #ModelScoring
+
 ## Concept
 
 This project attempts to do a sentiment analysis on @peta's Twitter account interactions (mentions, retweets and replies) using specific relevant librairies such as *TextBlob* and *sklearn*.
