@@ -2,6 +2,8 @@
 
 version 1.1.1
 
+![pii_screen](https://user-images.githubusercontent.com/84317349/138094429-6c38fc60-cbad-4a21-aae5-6936775f9d6f.jpg)
+
 ## Concept
 
 This first version is a basic PII Anonymiser using NER (Named Entity Recognition) POS tagging to identify and replace Proper Nouns and Numerical values by emojis.
