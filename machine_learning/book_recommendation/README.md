@@ -1,5 +1,7 @@
 # Book Recommendation with Gutenberg Project Corpus
 
+#TopicModeling #LSA #LatentSemanticAnalysis #BOW #BagOfWords
+
 ## Concept
 
 Those notebooks apply data pre-processing on Gutenberg Project dataset in order to achieve topic modeling and book recommendation.
