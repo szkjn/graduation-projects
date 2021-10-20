@@ -1,4 +1,4 @@
-# Initium est omnia
+# initium est omnia
 
 Hi ! You'll find here my first projects as an ML & Data Analysis explorer. <br>
 For more information about me, please refer to my [resume](../../../resume) repo.
