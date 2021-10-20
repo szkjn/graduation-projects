@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+<div class="upload_bar mt-2">
+  <div class="mt-2 mx-2">
+    <h5>Enter text to anonymize:</h5>
+  </div>
+  <form class="mx-2" action="{{ url_for('anonymised_PII') }}" method='POST' enctype="multipart/form-data">
+    <textarea name="original_text" class="p-2 form-control" rows="5" style="border: 2px solid #333; background-color: rgb(255, 255, 255, .1);"></textarea>
+    <input type="submit" value="Submit" class="mt-2 btn btn-dark">
+  </form>
+</div>
+<p>
+  {% with messages = get_flashed_messages() %}
+  {% if messages %}
+  {% for message in messages %}
+  {{ message }}
+  {% endfor %}
+  {% endif %}
+  {% endwith %}
+</p>
+
+{% if anonymised_text %}
+<div class="border border-dark border-5 p-4 d-flex flex-wrap justify-content-between w-100">
+  <b>original text:</b> <br>
+  {{ original_text }}<br><br>
+  <b>anonymised text:</b> <br>
+  {{ anonymised_text|safe }}
+</div>
+
+{% endif %}
+
+{% endblock %}
