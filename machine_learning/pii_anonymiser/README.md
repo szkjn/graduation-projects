@@ -10,7 +10,7 @@ version 1.1.1
 
 This Flask application is a deployment-ready PII Anonymiser using Named Entity Recognition POS tagging to identify and replace Proper Nouns and Numerical values by emojis.
 
-Work in progress :
+## Work in progress :
 
 + v1.2
     - options between replacing with emojis and proper POS tags ::)
