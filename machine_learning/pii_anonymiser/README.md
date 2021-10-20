@@ -2,13 +2,15 @@
 
 version 1.1.1
 
+#NLP #NaturalLanguageProcessing #NER #NamedEntityRecognition
+
 ![pii_screen](https://user-images.githubusercontent.com/84317349/138094429-6c38fc60-cbad-4a21-aae5-6936775f9d6f.jpg)
 
 ## Concept
 
-This first version is a basic PII Anonymiser using NER (Named Entity Recognition) POS tagging to identify and replace Proper Nouns and Numerical values by emojis.
+This Flask application is a deployment-ready PII Anonymiser using Named Entity Recognition POS tagging to identify and replace Proper Nouns and Numerical values by emojis.
 
-Work in progress :
+## Work in progress :
 
 + v1.2
     - options between replacing with emojis and proper POS tags ::)
