@@ -1,6 +1,6 @@
 # Sentiment Analysis on @peta's Twitter interactions
 
-#SentimentAnalysis #DataCleaning #ModelTraining #ModelScoring
+#SentimentAnalysis #Wordcloud #DataCleaning #ModelTraining #ModelScoring
 
 ## Concept
 
