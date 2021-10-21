@@ -56,7 +56,7 @@ The collection of badges will determine the user's status : *Parrot* -> *Super P
 
 The user can accumulate both ***owl*** and ***parrot*** badges.
 
-## TECH :
+## Technologies :
 
 ### Main Tools :
 
@@ -68,4 +68,3 @@ The user can accumulate both ***owl*** and ***parrot*** badges.
 
 - gitclone
 - npm run serve
-- etc
