@@ -1,7 +1,13 @@
-# C - Dev & Go - MVC frameworks - freeads
+# Treebay - Laravel Website
 
+Epitech Coding Academy 2021
 by Gabriel Dubois & Jun Suzuki
-(July 2021)
+
+#MVC #Laravel #CRUD
+
+![treebay1](https://user-images.githubusercontent.com/84317349/138425509-c34eb8a2-7e93-4871-b2e6-14433f174e2e.png)
+![treebay2](https://user-images.githubusercontent.com/84317349/138425524-ed7ac5e4-9985-4cdc-ade4-293869a8ffe4.png)
+![treebay5](https://user-images.githubusercontent.com/84317349/138425552-1e8bb670-631b-4190-aede-134aab4d9e51.png)
 
 ### Presentation :
 
