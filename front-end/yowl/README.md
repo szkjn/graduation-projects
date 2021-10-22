@@ -1,9 +1,9 @@
 # YOWL : Comment all the internet
 
-Epitech Coding Academy 2021 
-End Of Semester Project
+Epitech Coding Academy 2021 - End Of Semester Project<br>
+Authors : Imad B, Mathieu C, Jackson M & Jun S.
 
-Authors : Imad B, Mathieu C, Jackson M, Jun S.
+#Vue.js #Laravel #Bootstrap
 
 ![yowl1](https://user-images.githubusercontent.com/84317349/138340251-02eec349-b8f2-4f84-80bf-8a0c59c346a0.png)
 ![yowl2](https://user-images.githubusercontent.com/84317349/138340401-c19e3cce-618f-47cb-8064-580862b98161.png)
