@@ -1,7 +1,6 @@
 # Trello Clone
 
-Epitech Coding Academy 2021
-
+Epitech Coding Academy 2021<br>
 Authors: Antonin Prion, Mathieu Carrière & Jun Suzuki
 
 #Vue.js #Vuex
