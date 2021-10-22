@@ -1,7 +1,6 @@
 # Treebay - Laravel Website
 
-Epitech Coding Academy 2021
-
+Epitech Coding Academy 2021<br>
 Authors: Gabriel Dubois & Jun Suzuki
 
 #MVC #Laravel #CRUD
