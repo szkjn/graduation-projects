@@ -2,6 +2,8 @@
 
 Epitech Coding Academy 2021
 
+Authors: Antonin Prion, Mathieu Carrière & Jun Suzuki
+
 #Vue.js #Vuex
 
 ![trello1](https://user-images.githubusercontent.com/84317349/138343908-b827b811-8195-4be5-8674-4ca39bbaaf9d.png)
