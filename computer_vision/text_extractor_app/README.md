@@ -1,8 +1,9 @@
-Epitech Coding Academy / Data & Machine Learning 2021 End Of Course Project
+Epitech Coding Academy | Data & Machine Learning 2021 | End Of Course Project
 
 # Text Extraction App
 
-current version: v1.2.1
+tech: Flask / OpenCV / EasyOCR / Pytesseract <br>
+version: v1.2.1
 
 ![app](https://user-images.githubusercontent.com/84317349/137354928-7af0a955-b56b-41c1-9458-38dafb8a4eff.jpg)
 
